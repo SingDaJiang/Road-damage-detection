@@ -1,0 +1,48 @@
+item {
+	id: 1
+	name: 'CRA'
+}
+item {
+	id: 2
+	name: 'PAT-LS-I'
+}
+item {
+	id: 3
+	name: 'PAT-MS-I'
+}
+item {
+	id: 4
+	name: 'PAT-HS-I'
+}
+item {
+	id: 5
+	name: 'PAT-LS-R'
+}
+item {
+	id: 6
+	name: 'PAT-MS-R'
+}
+item {
+	id: 7
+	name: 'PAT-HS-R'
+}
+item {
+	id: 8
+	name: 'POT'
+}
+item {
+	id: 9
+	name: 'OPJ-NS'
+}
+item {
+	id: 10
+	name: 'OPJ-S'
+}
+item {
+	id: 11
+	name: 'DEL'
+}
+item {
+	id: 12
+	name: 'CRA-ALL'
+}
